@@ -197,3 +197,9 @@ goto simulation https://www.tinkercad.com/things/b91UUV6lfqz-projectfarm
 ![Circuits](https://github.com/boss2546th/ProjectFarm_switch-timer/blob/main/projectfram/ProjectFarm.png)
 
 
+
+ตัวอย่างการใช้งานจริง
+
+https://user-images.githubusercontent.com/61747927/147900666-67e3b142-b92b-465b-a34d-12b1f66c5127.mp4
+
+
