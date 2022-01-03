@@ -182,6 +182,12 @@ start3 :
 ```
 <br>
 
-goto simulation https://www.tinkercad.com/dashboard?type=circuits&collection=designs
+
+https://user-images.githubusercontent.com/61747927/147899965-a3e4733f-2676-4344-ba45-a44849711292.mp4
+
+
+goto simulation https://www.tinkercad.com/things/b91UUV6lfqz-projectfarm
 
 ![Circuits](https://github.com/boss2546th/ProjectFarm_switch-timer/blob/main/projectfram/ProjectFarm.png)
+
+
